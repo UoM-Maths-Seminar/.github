@@ -20,6 +20,10 @@ This repository is for sharing and working with algebraic geometry notes (UniMel
 
 - *Beginning in Algebraic Geometry* (Emily Clader & Dustin Ross)
 
+The electronic edition of this book is freely available through Open Access on Springer: 
+
+https://link.springer.com/book/10.1007/978-3-031-88819-9
+
 **What’s inside**
 - `chapters/` — one folder per chapter/week (each includes `note.tex` + `slides.tex`)
 - `templates/` — reusable LaTeX templates:
