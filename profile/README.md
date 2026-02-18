@@ -31,19 +31,18 @@ https://link.springer.com/book/10.1007/978-3-031-88819-9
   - `templates/beamer-template/beamer-template.tex`
 
 **Chapter / week map (quick view)**
-- Ch.0 Polynomial Rings (prereading)
-- Ch.1 Varieties and Ideals (week 1)
-- Ch.2 Irreducibility of Affine Varieties (week 2)
-- Ch.3 Coordinate Rings (week 3)
-- Ch.4 Polynomial Maps (week 4)
-- Ch.5 Proof of the Nullstellensatz (week 5)
-- Ch.6 Dimension (week 6)
-- Ch.7 Smoothness (week 7)
-- Ch.8 Products (week 8)
-- Ch.9 Projective Varieties (week 9)
-- Ch.10 Maps of Projective Varieties (week 10)
-- Ch.11 Quasiprojective Varieties (week 11)
-- Ch.12 Culminating Topics (week 12)
+- Ch.0 Polynomial Rings (week 1)
+- Ch.1 Varieties and Ideals (week 2)
+- Ch.2 Irreducibility of Affine Varieties (week 3)
+- Ch.3 Coordinate Rings (week 4)
+- Ch.4 Polynomial Maps (week 5)
+- Ch.5 Proof of the Nullstellensatz (week 6)
+- Ch.6 Dimension (week 7)
+- Ch.7 Smoothness (week 8)
+- Ch.8 Products (week 9)
+- Ch.9 Projective Varieties (week 10)
+- Ch.10 Maps of Projective Varieties (week 11)
+- Ch.11 Quasiprojective Varieties (week 12)
 
 ## How to contribute
 
